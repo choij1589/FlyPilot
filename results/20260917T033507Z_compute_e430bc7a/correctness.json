@@ -1,0 +1,162 @@
+[
+  {
+    "device": "cpu",
+    "width": 512,
+    "batch": 1,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 512,
+    "batch": 64,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 512,
+    "batch": 256,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 512,
+    "batch": 1024,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 512,
+    "batch": 4096,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 1024,
+    "batch": 1,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 1024,
+    "batch": 64,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 1024,
+    "batch": 256,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 1024,
+    "batch": 1024,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "cpu",
+    "width": 1024,
+    "batch": 4096,
+    "max_output_abs_error": 0.0,
+    "max_gradient_abs_error": 0.0,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 512,
+    "batch": 1,
+    "max_output_abs_error": 5.960464477539063e-08,
+    "max_gradient_abs_error": 4.76837158203125e-07,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 512,
+    "batch": 64,
+    "max_output_abs_error": 1.1920928955078125e-07,
+    "max_gradient_abs_error": 1.1920928955078125e-07,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 512,
+    "batch": 256,
+    "max_output_abs_error": 1.7881393432617188e-07,
+    "max_gradient_abs_error": 1.043081283569336e-07,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 512,
+    "batch": 1024,
+    "max_output_abs_error": 1.7881393432617188e-07,
+    "max_gradient_abs_error": 9.685754776000977e-08,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 512,
+    "batch": 4096,
+    "max_output_abs_error": 2.1606683731079102e-07,
+    "max_gradient_abs_error": 2.2351741790771484e-07,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 1024,
+    "batch": 1,
+    "max_output_abs_error": 7.450580596923828e-08,
+    "max_gradient_abs_error": 5.960464477539062e-07,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 1024,
+    "batch": 64,
+    "max_output_abs_error": 1.341104507446289e-07,
+    "max_gradient_abs_error": 1.0896474123001099e-07,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 1024,
+    "batch": 256,
+    "max_output_abs_error": 1.6391277313232422e-07,
+    "max_gradient_abs_error": 1.1920928955078125e-07,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 1024,
+    "batch": 1024,
+    "max_output_abs_error": 2.1606683731079102e-07,
+    "max_gradient_abs_error": 9.685754776000977e-08,
+    "passed": true
+  },
+  {
+    "device": "mps",
+    "width": 1024,
+    "batch": 4096,
+    "max_output_abs_error": 2.1606683731079102e-07,
+    "max_gradient_abs_error": 1.4528632164001465e-07,
+    "passed": true
+  }
+]

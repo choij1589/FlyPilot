@@ -1,0 +1,10 @@
+# Shared direct dependencies; Python and backend-specific torch are installed by first_setup.sh.
+# Transitive dependencies are resolved by pip, not fully locked.
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.3
+cmsstyle==0.5.0
+gymnasium[classic-control]==1.1.1
+jupyterlab==4.4.3
+ipykernel==6.29.5
+pytest==8.4.0

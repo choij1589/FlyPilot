@@ -1,0 +1,27 @@
+{
+  "devices": [
+    "cpu",
+    "mps"
+  ],
+  "widths": [
+    512,
+    1024
+  ],
+  "batches": [
+    1,
+    64,
+    256,
+    1024,
+    4096
+  ],
+  "seed": 0,
+  "warmup": 20,
+  "iterations": 100,
+  "repetitions": 5,
+  "env_steps": 1000,
+  "output_root": "/Users/choij/workspace/FlyPilot/results",
+  "cpu_thread_counts": [
+    1,
+    8
+  ]
+}

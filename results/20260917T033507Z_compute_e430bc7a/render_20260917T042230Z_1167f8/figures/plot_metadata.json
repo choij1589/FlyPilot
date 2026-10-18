@@ -1,0 +1,7 @@
+{
+  "backend": "PyROOT + cmsstyle",
+  "ROOT": "6.34.10",
+  "cmsstyle": "0.5.0",
+  "summary_sha256": "d93f84e01ad88c2cb19deefd8238453fd4766281b81ad34335b2dc30eaf51d5c",
+  "source_sha256": "89fef45474b62f3be9daa0e50008afe79c98825765b67232e161c61db360ed77"
+}
